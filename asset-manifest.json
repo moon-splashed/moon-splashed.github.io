@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9526c91.css",
+    "main.js": "/static/js/main.95469afd.js",
+    "static/media/background.png": "/static/media/background.d1fbc71bd697594e6887.png",
+    "static/media/WorkSans-SemiBold.ttf": "/static/media/WorkSans-SemiBold.8988ce2e3e8957a63db8.ttf",
+    "static/media/WorkSans-Bold.ttf": "/static/media/WorkSans-Bold.aa43e32a4b4e4ffe0942.ttf",
+    "static/media/gothampro_bold.ttf": "/static/media/gothampro_bold.764ba13de4409a990823.ttf",
+    "static/media/gothampro_medium.ttf": "/static/media/gothampro_medium.dca4b95d345c2abd8661.ttf",
+    "static/media/gothampro.ttf": "/static/media/gothampro.4f71921a0823129cd8ba.ttf",
+    "index.html": "/index.html",
+    "static/media/arrow-up-right-white.svg": "/static/media/arrow-up-right-white.94efd9a38f106c60aa01a28ff59a7a8e.svg",
+    "main.d9526c91.css.map": "/static/css/main.d9526c91.css.map",
+    "main.95469afd.js.map": "/static/js/main.95469afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9526c91.css",
+    "static/js/main.95469afd.js"
+  ]
+}
